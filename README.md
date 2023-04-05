@@ -99,7 +99,5 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twicke&show_icons=true&locale=en&layout=compact" alt="twicke" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twicke&show_icons=true&locale=en" alt="twicke" /></p>
-
+![TwickE's GitHub stats](https://github-readme-stats.vercel.app/api?username=twicke&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twicke&layout=compact&hide_progress=false&theme=tokyonight)
