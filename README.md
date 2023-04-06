@@ -9,16 +9,25 @@
     </a>
 </p>
 
-<p align="center">🌱 I’m currently learning **Ionic with Angular</p>
+<p align="center">🌱 I’m currently learning <b>Ionic with Angular</b></p>
 
-<p align="center">💬 Ask me about **HTML, CSS or Javascript</p>
+<p align="center">💬 Ask me about <b>HTML, CSS or Javascript</b></p>
 
-<p align="center">📫 How to reach me **fredericosilva2002@hotmail.com</p>
+<p align="center">📫 How to reach me <b>fredericosilva2002@hotmail.com</b></p>
 
-<p align="center">⚡ Fun fact **My favorite TV series is probably The Big Bang Theory</p>
+<p align="center">⚡ Fun fact <b>My favorite TV series is probably The Big Bang Theory</b></p>
 
   
 <br>
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/frederico-silva-727a8b21a/" target="_blank" rel="noreferrer">
+        <img alt="Linkedin", width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <a href="https://codepen.io/TwickE" target="_blank" rel="noreferrer">
+        <img alt="Linkedin", width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
+    </a>
+</p>
 
 <h3 align="center">Languages and Frameworks</h3>
 <p align="center">
