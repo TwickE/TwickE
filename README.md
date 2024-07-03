@@ -15,8 +15,6 @@
 
 <p align="center">📫 How to reach me <b>fredericosilva2002@hotmail.com</b></p>
 
-<p align="center">⚡ Fun fact <b>My favorite TV series is probably The Big Bang Theory</b></p>
-
   
 <br>
 
@@ -24,9 +22,6 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/frederico-silva-727a8b21a/" target="_blank" rel="noreferrer">
         <img alt="Linkedin", width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    <a href="https://codepen.io/TwickE" target="_blank" rel="noreferrer">
-        <img alt="Linkedin", width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
-    </a>
 </p>
 
 <h3 align="center">Languages and Frameworks</h3>
