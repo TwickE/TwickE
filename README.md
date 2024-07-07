@@ -9,7 +9,7 @@
     </a>
 </p>
 
-<p align="center">🌱 I’m currently learning <b>Ionic with Angular</b></p>
+<p align="center">🌱 I’m currently learning <b>React</b></p>
 
 <p align="center">💬 Ask me about <b>HTML, CSS or Javascript</b></p>
 
